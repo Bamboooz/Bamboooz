@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Bamboooz
-- 👀 I’m interested in java lang.
-- 🌱 I’m currently learning java more.
-- 💞️ I’m looking to collaborate on my SysInfo32 project: i need for someone who would help me with getting some specs.
-- 📫 How to reach me, Discord: Bamboooz#8423, Twitter: @Bamboooz1 (Dont recommend, i dont use twitter often), mail: BambusixMc@gmail.com
+<div align="center">
 
-<!---
-Bamboooz/Bamboooz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, Im Bamboooz.
+
+### Languages I know (sort of)
+[<img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>][java]&nbsp;
+[<img src="https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>][csharp]&nbsp;
+[<img src="https://img.shields.io/badge/-batch-Black"/>][batch]&nbsp;
+[<img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social"/>][c++]&nbsp;
+ 
+[java]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[csharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[batch]: https://en.wikipedia.org/wiki/Batch_file
+[c++]: https://en.wikipedia.org/wiki/C%2B%2B
