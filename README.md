@@ -11,4 +11,4 @@
 [csharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+ ![bamboooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamboooz)
