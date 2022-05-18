@@ -10,5 +10,3 @@
 [java]: https://en.wikipedia.org/wiki/Java_(programming_language)
 [csharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [python]: https://en.wikipedia.org/wiki/Python_(programming_language)
-
- ![bamboooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamboooz)
