@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi, Im Bamboooz.
-
+I do some trash code here
 ### Stuff i code in
 [<img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>][java]&nbsp;
 [<img src="https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>][csharp]&nbsp;
