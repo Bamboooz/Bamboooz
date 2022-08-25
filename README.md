@@ -16,3 +16,7 @@ I do some trash code here
 [asm]: https://en.wikipedia.org/wiki/X86_assembly_language
 
 My stats cause why not
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamboooz&show_icons=true&theme=radical)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboooz&layout=compact&theme=radical)
