@@ -15,6 +15,11 @@ I do some trash code here
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
 [asm]: https://en.wikipedia.org/wiki/X86_assembly_language
 
+Currently learning:
+
+[<img src="https://img.shields.io/badge/kotlin-0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>][kotlin]&nbsp;
+[kotlin]: https://en.wikipedia.org/wiki/Kotlin_(programming_language)
+
 My stats cause why not
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamboooz&show_icons=true&theme=radical)
