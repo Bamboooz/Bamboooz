@@ -18,6 +18,7 @@ I do some trash code here
 Currently learning:
 
 [<img src="https://img.shields.io/badge/kotlin-0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>][kotlin]&nbsp;
+ 
 [kotlin]: https://en.wikipedia.org/wiki/Kotlin_(programming_language)
 
 My stats cause why not
