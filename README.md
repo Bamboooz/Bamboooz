@@ -17,10 +17,8 @@ I do some trash code here
 
 Currently learning:
 
-nothing lol
-
-My stats cause why not
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamboooz&show_icons=true&theme=radical)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboooz&layout=compact&theme=radical)
+ 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bamboooz&theme=radical)
