@@ -19,6 +19,6 @@ Currently learning:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamboooz&layout=compact&theme=radical)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboooz&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bamboooz&show_icons=true&locale=en&layout=compact&theme=radical)
  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bamboooz&theme=radical)
