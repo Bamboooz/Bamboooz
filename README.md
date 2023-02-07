@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi, Im Bamboooz.
-I do some trash code here
+I do some trash code here, and I love ❤ system information gathering utilities as well as open-source projects.
 ### Stuff i code in
 [<img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>][java]&nbsp;
 [<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]&nbsp;
@@ -17,7 +17,7 @@ I do some trash code here
 
 Currently learning:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamboooz&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamboooz&layout=compact&theme=radical)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboooz&layout=compact&theme=radical)
  
