@@ -15,8 +15,8 @@ I do some trash code here, and I love ❤ system information gathering utilities
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
 [asm]: https://en.wikipedia.org/wiki/X86_assembly_language
 
-Currently learning:
-
+My stats cause why not:
+<br/><br/><br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamboooz&layout=compact&theme=radical)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bamboooz&show_icons=true&locale=en&layout=compact&theme=radical)
