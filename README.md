@@ -5,8 +5,8 @@ I do some trash code here, and I love system information gathering utilities as 
 # 📚 **My portfolio**
 You can find it [here](https://bamboooz.github.io) I guess.<br/><br/>
 # 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamboooz&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamboooz&theme=radical)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bamboooz&show_icons=true&locale=en&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboooz&layout=compact&theme=radical)
  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bamboooz&theme=radical)
