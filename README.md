@@ -33,9 +33,9 @@ USER Bamboooz = {
 
 ------------------
 
-<p align="center">
-
+<div align="center">
+    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamboooz&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboooz&layout=compact&theme=radical)
-
-<p/>
+    
+</div>
