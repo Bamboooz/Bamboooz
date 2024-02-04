@@ -3,21 +3,15 @@
 ----------
 
 ```ts
-interface Knowledge {
-    backend: string[],
-    frontend: string[],
-    devops: string[],
-}
-
 interface User {
-    username: string,
-    knowlegde: Knowledge
-    age: number,
-    position: string,
-    website: string,
-    mail: string,
-    discord: string,
-    coffee: string,
+    username: string
+    knowlegde: { backend: string[], frontend: string[], devops: string[] }
+    age: number
+    position: string
+    website: string
+    mail: string
+    discord: string
+    coffee: string
 }
 
 const Bamboooz: User {
