@@ -2,33 +2,38 @@
 
 ----------
 
-```c
-struct USER
-{ 
-    const char * username;
-    int age;
-    char * position;
-    const char * website;
-    const char * contactMail;
-    const char * discord;
-    const char * supportMe;
+```ts
+interface Knowledge {
+    backend: string[],
+    frontend: string[],
+    devops: string[],
+}
+
+interface User {
+    username: string,
+    knowlegde: Knowledge
+    age: number,
+    position: string,
+    website: string,
+    mail: string,
+    discord: string,
+    coffee: string,
+}
+
+const Bamboooz: User {
+    username: "Bamboooz",
+    knowledge: {
+        backend: ["Python", "TypeScript", "JavaScript", "C#", "Java", "C"],
+        frontend: ["React", "TailwindCSS"],
+        devops: ["Linux", "GitHub Actions"],
+    },
+    age: 15,
+    position: "Highschool student",
+    website: "https://bamboooz.github.io/",
+    mail: "bambusixmc@gmail.com",
+    discord: "@bamboooz",
+    coffee: "https://www.buymeacoffee.com/Bamboooz",
 };
-
-typedef struct USER USER;
-
-char * knowledge[] = {"Python", "C", "C++", ".NET", "Java", "C#", "x86 Assembly"};
-char * devops[] = {"Docker", "Linux", "GitHub Actions"};
-
-USER Bamboooz = {
-    .username = "Bamboooz",
-    .age = 15,
-    .position = "Highschool student",
-    .website = "https://bamboooz.github.io",
-    .contactMail = "bambusixmc@gmail.com",
-    .discord = "@bamboooz",
-    .supportMe = "https://www.buymeacoffee.com/Bamboooz"
-};
-
 ```
 
 ------------------
