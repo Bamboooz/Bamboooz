@@ -35,5 +35,5 @@ const Bamboooz: User {
 <div align="center">
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamboooz&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboooz&layout=compact&exclude_repo=bamboooz.github.io&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamboooz&layout=compact&theme=radical)
 </div>
