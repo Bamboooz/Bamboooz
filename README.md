@@ -26,7 +26,7 @@ const Bamboooz: User {
     website: "https://bamboooz.github.io/",
     mail: "bambusixmc@gmail.com",
     discord: "@bamboooz",
-    coffee: "https://www.buymeacoffee.com/Bamboooz",
+    coffee: "https://ko-fi.com/Bamboooz",
 };
 ```
 
