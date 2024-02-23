@@ -4,30 +4,31 @@
 
 ```ts
 interface User {
-    username: string
-    knowlegde: { backend: string[], frontend: string[], devops: string[] }
-    age: number
-    position: string
-    website: string
-    mail: string
-    discord: string
-    coffee: string
-}
+    username: string;
+    knowledge: { backend: string[], frontend: string[], devops: string[] };
+    age: number;
+    position: string;
+    website: string;
+    mail: string;
+    discord: string;
+    coffee: string;
+};
 
-const Bamboooz: User {
+const Bamboooz: User = {
     username: "Bamboooz",
     knowledge: {
-        backend: ["Python", "TypeScript", "JavaScript", "C#", "Java", "C"],
+        backend: ["TypeScript", "Python", "JavaScript", "C#", "Java", "C"],
         frontend: ["React", "TailwindCSS"],
-        devops: ["Linux", "GitHub Actions"],
+        devops: ["Linux", "GitHub Actions", "Jira"],
     },
     age: 15,
     position: "Highschool student",
     website: "https://bamboooz.github.io/",
     mail: "bambusixmc@gmail.com",
     discord: "@bamboooz",
-    coffee: "https://www.buymeacoffee.com/Bamboooz",
+    coffee: "https://ko-fi.com/Bamboooz",
 };
+
 ```
 
 ------------------
