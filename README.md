@@ -17,7 +17,7 @@ type User = {
 const Bamboooz: User = {
     username: "Bamboooz",
     knowledge: {
-        backend: ["TypeScript", "Python", "JavaScript", "C#", "Java", "C"],
+        backend: ["TypeScript", "Python", "JavaScript", "Rust", "C#"],
         frontend: ["React", "TailwindCSS"],
         devops: ["Linux", "GitHub Actions", "Jira"],
     },
