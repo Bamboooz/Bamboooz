@@ -3,7 +3,7 @@
 ----------
 
 ```ts
-interface User {
+type User = {
     username: string;
     knowledge: { backend: string[], frontend: string[], devops: string[] };
     age: number;
