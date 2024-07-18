@@ -15,10 +15,4 @@ Hobbies: Sport climbing, Mountaineering, Coffee & Tea
 Discord: @bamboooz
 Twitter: @_bamboooz
 Ko-fi: @bamboooz
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
 ```
