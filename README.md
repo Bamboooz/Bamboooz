@@ -1,18 +1,20 @@
-```zsh
-> neofetch
-```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/83116089?v=4" width="320" /> 
+<div align="center">
+  <img src="https://github.com/Bamboooz/Bamboooz/blob/main/pfp_circle.png?raw=true" width="192" height="192">
+  <h1>Bamboooz</h1>
+</div>
 
-```csharp
-bamboooz@github
--------------------------
-OS: Windows 10 / Linux Mint
-Location: Poland
-Frameworks: React, Tauri
-Languages: TypeScript, JavaScript, HTML, CSS, Rust
-Hobbies: Sport climbing, Mountaineering, Coffee & Tea
-Discord: @bamboooz
-Twitter: @_bamboooz
-Ko-fi: @bamboooz
-```
+<div align="center">
+  You can find my website here
+</br>
+  https://bamboooz.github.io
+</div>
+
+<div align="center">
+  <h2>📊 Statistics</h2>
+  
+  ![Repos Badge](https://badges.strrl.dev/repos/Bamboooz) ![Commits Badge](https://badges.strrl.dev/commits/all/Bamboooz) ![Contributions Badge](https://badges.strrl.dev/contributions/all/Bamboooz) ![Years Badge](https://badges.strrl.dev/years/Bamboooz)
+
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=Bamboooz&theme=dark)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=Bamboooz&theme=dark&layout=compact&sort=desc)](https://github.com/KasRoudra/github-stats-card)
+</div>
