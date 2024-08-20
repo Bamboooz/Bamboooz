@@ -18,6 +18,4 @@ https://bamboooz.github.io
 ![Years Badge](https://badges.strrl.dev/years/Bamboooz)
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=Bamboooz&theme=dark)](https://github.com/KasRoudra/github-stats-card)
-
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=Bamboooz&theme=dark&layout=compact&sort=desc)](https://github.com/KasRoudra/github-stats-card)
 </div>
